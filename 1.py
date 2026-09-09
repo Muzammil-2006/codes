@@ -1,7 +1,0 @@
-a=int(input("Enter a number: "))
-b=int(input("Enter number: "))
-print("Add=",a+b)
-print("substraction=",a-b)
-print("Multipication",a*b)
-print("Quoitent=",a/b)
-print("Remainder=",a//b)
